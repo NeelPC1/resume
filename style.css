@@ -1,0 +1,34 @@
+
+.right{
+
+    position:absolute;
+    right:55vw;
+  }
+  
+  .left{
+  margin:1vw;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 20;
+    padding:1vw;
+    width:45vw;
+    position:absolute;
+    background-color: white;
+  
+  }
+  
+  .left h1{
+    padding-bottom: 3vh;
+  }
+  
+
+
+body{
+    background-color:#E6CDCC;
+    word-spacing:.1vw;
+    font-size:large;
+    line-height:85%;
+}  
+body ul{
+    line-height: 120%;
+}
+
