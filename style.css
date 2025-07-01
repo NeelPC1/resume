@@ -1,9 +1,20 @@
 
-.right{
+.right {
 
     position:absolute;
-    right:55vw;
+    left:50vw;
+    margin:1vw;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20;
+      padding:1vw;
+      width:45vw;
+      position:absolute;
+      background-color: white;
+      text-align:center;
+      border-radius: 3vw;
+    
   }
+
   
   .left{
   margin:1vw;
@@ -13,6 +24,8 @@
     width:45vw;
     position:absolute;
     background-color: white;
+    text-align:center;
+    border-radius: 3vw;
   
   }
   
@@ -28,7 +41,19 @@ body{
     font-size:large;
     line-height:85%;
 }  
-body ul{
+body {
     line-height: 120%;
 }
-
+h2{
+    margin-top:1.3vh;
+    margin-bottom:1.3vh;
+}
+.summary{
+    margin-right:5vw;
+    margin-left:5vw;
+    line-height: 125%;
+}
+h3{
+    margin-top:1.3vh;
+    margin-bottom:1.3vh;
+}
